@@ -1,3 +1,5 @@
+[![Clojars Project](https://img.shields.io/clojars/v/com.github.chunsen-w/clj-dev-reload.svg)](https://clojars.org/com.github.chunsen-w/clj-dev-reload)
+
 ## What is this?
 This is a libary to help reload clj files automatically when they change.
 
